@@ -683,11 +683,11 @@ export default function App() {
                     DANNY BOSS
                   </span>
                   <span className="px-1.5 py-0.5 text-[9px] font-bold rounded bg-[#241b09] border border-[#6b4f1d] text-[#e5b84b] uppercase leading-none">
-                    MEMBER
+                    Owner 
                   </span>
                 </div>
                 <p className="text-[11px] text-zinc-400 truncate mt-0.5">
-                  {userEmail || 'telegramuser @Dannyboss89.in'}
+                  {userEmail || 'telegram user @Dannyboss89'}
                 </p>
               </div>
             </div>
