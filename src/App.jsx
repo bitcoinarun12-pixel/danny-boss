@@ -341,9 +341,9 @@ export default function App() {
     const message = encodeURIComponent(
       `Hello DANNY BOSS Admin,\nMujhe apna Member Registration complete karna hai.\n\nEmail: ${userEmail || 'Member'}\nMember ID: DANNY001\n${clientPart}`
     );
-    const waUrl = `https://wa.me/919999999999?text=${message}`;
+    const waUrl = `https://t.me/Dannyboss89/?text=*i-want-job*♠️♠️}`;
     window.open(waUrl, '_blank', 'noopener,noreferrer');
-    showToast('Opening WhatsApp Admin Support to complete registration...');
+    showToast('Opening telegram Admin Support to complete registration...');
   };
 
   const displayName = extractDisplayName(userEmail || 'member@dannyboss.in');
