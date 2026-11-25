@@ -278,7 +278,7 @@ export default function App() {
         },
         ...prev.slice(0, 9)
       ]);
-    }, 4200);
+    }, 25000);
 
     return () => clearInterval(interval);
   }, [isLoggedIn]);
