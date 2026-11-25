@@ -687,7 +687,7 @@ export default function App() {
                   </span>
                 </div>
                 <p className="text-[11px] text-zinc-400 truncate mt-0.5">
-                  {userEmail || 'member@dannyboss.in'}
+                  {userEmail || 'telegramuser @Dannyboss89.in'}
                 </p>
               </div>
             </div>
