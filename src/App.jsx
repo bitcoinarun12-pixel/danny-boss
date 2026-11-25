@@ -503,7 +503,7 @@ export default function App() {
               <div className="flex items-center gap-1.5 text-zinc-300">
                 <Users className="w-3.5 h-3.5 text-[#e5b84b]" />
                 <span>Total Members:</span>
-                <strong className="text-white font-bold">850</strong>
+                <strong className="text-white font-bold">18500</strong>
               </div>
               <span className="text-[#e5b84b] font-semibold">All India</span>
             </div>
